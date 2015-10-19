@@ -1,3 +1,0 @@
-# Luigi Presentation
-
-## Luigi examples
