@@ -1,0 +1,9 @@
+**/target
+**/venv
+**/.idea
+**/*.pyc
+**/output/*
+**/*.tar.gz
+elasticsearch/elasticsearch-1.7.3
+**/.ipynb_checkpoints
+**/*.ipynb

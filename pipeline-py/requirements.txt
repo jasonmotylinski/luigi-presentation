@@ -1,0 +1,3 @@
+elasticsearch
+beautifulsoup
+luigi==1.3.0
