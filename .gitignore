@@ -9,3 +9,4 @@ elasticsearch/elasticsearch-1.7.3
 **/*.ipynb
 *.egg-info/
 pipeline-py/src/*
+**/*.log
