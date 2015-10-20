@@ -1,5 +1,7 @@
 import json
 import luigi
+
+from luigi.contrib import esindex
 from nfl import scraper
 
 
@@ -20,7 +22,8 @@ class IngestData(luigi.Task):
 class GenerateReport(luigi.Task):
 
     def requires(self):
-        return [IngestData("PASSING")]
+        for c in ['KICK_RETURNS', 'KICKING', 'PASSING', 'PUNTING', 'RECEIVING', 'RUSHING', 'SACKS', 'SCORING', 'TACKLES', 'TOUCHDOWNS']:
+            yield IngestData(c)
 
     def output(self):
         return luigi.LocalTarget("output/report.json")
@@ -37,3 +40,21 @@ class GenerateReport(luigi.Task):
             for k in report.keys():
                 for el in report[k]:
                     f.write(el.values()[0] + "," + el.values()[1] + "," + el.values()[2] + "," + el.values()[3] + '\n')
+
+
+class ExportToES(luigi.Task):
+
+    def requires(self):
+        for c in ['KICK_RETURNS', 'KICKING', 'PASSING', 'PUNTING', 'RECEIVING', 'RUSHING', 'SACKS', 'SCORING', 'TACKLES', 'TOUCHDOWNS']:
+            yield IngestData(c)
+
+    def output(self):
+        return esindex.ElasticsearchTarget(host="localhost", port="9200", index="nfl", doc_type="report", update_id="_id")
+
+    def run(self):
+        report = {}
+
+        for inputFile in self.input():
+            with inputFile.open('r') as f:
+                data = json.loads(f.read())
+                report[inputFile.category] = data[:-10]
