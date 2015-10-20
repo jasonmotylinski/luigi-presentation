@@ -1399,3 +1399,253 @@
 2015-10-19 20:21:16,454 luigi.server[50699] INFO: Done pruning task graph
 2015-10-19 20:22:16,453 luigi.server[50699] INFO: Starting pruning of task graph
 2015-10-19 20:22:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:23:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:23:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:24:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:24:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:25:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:25:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:26:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:26:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:27:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:27:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:28:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:28:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:29:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:29:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:30:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:30:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:31:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:31:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:32:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:32:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:33:17,212 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:33:17,212 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:34:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:34:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:35:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:35:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:36:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:36:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:37:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:37:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:38:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:38:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:39:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:39:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:40:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:40:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:41:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:41:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:42:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:42:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:43:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:43:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:44:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:44:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:45:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:45:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:46:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:46:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:47:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:47:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:48:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:48:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:49:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:49:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:50:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:50:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:51:02,343 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 2.54ms
+2015-10-19 20:51:02,345 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.47ms
+2015-10-19 20:51:02,347 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.47ms
+2015-10-19 20:51:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:51:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:51:48,946 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.55ms
+2015-10-19 20:51:48,948 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.40ms
+2015-10-19 20:51:48,951 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.44ms
+2015-10-19 20:51:49,941 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.67ms
+2015-10-19 20:51:50,100 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.52ms
+2015-10-19 20:51:50,101 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.34ms
+2015-10-19 20:52:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:52:16,454 luigi.server[50699] INFO: Worker Worker(salt=264185668, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=75014) timed out (no contact for >=60.0s)
+2015-10-19 20:52:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:52:17,216 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.55ms
+2015-10-19 20:52:17,218 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-19 20:52:17,219 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-19 20:52:17,221 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-19 20:52:17,222 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-19 20:52:17,233 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.49ms
+2015-10-19 20:52:17,235 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.42ms
+2015-10-19 20:52:17,236 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.39ms
+2015-10-19 20:52:17,238 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.43ms
+2015-10-19 20:52:17,240 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.40ms
+2015-10-19 20:52:17,242 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.39ms
+2015-10-19 20:52:17,243 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.36ms
+2015-10-19 20:52:17,245 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.46ms
+2015-10-19 20:52:18,341 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.46ms
+2015-10-19 20:52:18,343 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-19 20:52:18,345 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.44ms
+2015-10-19 20:52:19,466 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.46ms
+2015-10-19 20:52:20,469 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.70ms
+2015-10-19 20:52:21,478 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:22,576 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.44ms
+2015-10-19 20:52:22,578 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.42ms
+2015-10-19 20:52:22,580 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.44ms
+2015-10-19 20:52:23,582 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:24,640 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.40ms
+2015-10-19 20:52:24,641 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-19 20:52:24,643 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.81ms
+2015-10-19 20:52:25,645 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:52:26,651 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.89ms
+2015-10-19 20:52:27,736 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.49ms
+2015-10-19 20:52:28,749 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.51ms
+2015-10-19 20:52:29,753 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.51ms
+2015-10-19 20:52:30,761 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.71ms
+2015-10-19 20:52:31,852 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:52:33,018 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.39ms
+2015-10-19 20:52:34,023 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:35,030 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:36,038 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:52:37,046 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:52:37,594 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 1.13ms
+2015-10-19 20:52:37,596 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.52ms
+2015-10-19 20:52:38,053 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.67ms
+2015-10-19 20:52:38,410 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.50ms
+2015-10-19 20:52:38,412 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.48ms
+2015-10-19 20:52:39,057 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:40,144 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.41ms
+2015-10-19 20:52:41,154 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:52:42,202 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.38ms
+2015-10-19 20:52:43,208 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.66ms
+2015-10-19 20:52:44,215 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:45,223 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.70ms
+2015-10-19 20:52:46,231 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:47,237 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.67ms
+2015-10-19 20:52:48,243 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:49,251 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.67ms
+2015-10-19 20:52:50,259 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:51,265 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:52,284 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:53,293 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:52:54,296 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:52:55,302 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.57ms
+2015-10-19 20:52:56,308 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:52:57,315 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:52:58,320 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.67ms
+2015-10-19 20:52:59,327 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.79ms
+2015-10-19 20:53:00,331 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.71ms
+2015-10-19 20:53:01,335 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.59ms
+2015-10-19 20:53:01,489 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.53ms
+2015-10-19 20:53:01,491 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.42ms
+2015-10-19 20:53:02,748 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.52ms
+2015-10-19 20:53:03,753 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.73ms
+2015-10-19 20:53:04,776 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.38ms
+2015-10-19 20:53:04,777 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.41ms
+2015-10-19 20:53:04,779 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.66ms
+2015-10-19 20:53:05,781 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:53:06,792 tornado.access[50699] INFO: 200 POST /api/ping (::1) 1.85ms
+2015-10-19 20:53:07,796 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.70ms
+2015-10-19 20:53:08,801 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:53:09,805 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:53:10,453 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.49ms
+2015-10-19 20:53:10,454 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.41ms
+2015-10-19 20:53:10,808 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.70ms
+2015-10-19 20:53:11,817 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.70ms
+2015-10-19 20:53:12,826 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:53:13,834 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.74ms
+2015-10-19 20:53:14,840 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.70ms
+2015-10-19 20:53:15,844 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.67ms
+2015-10-19 20:53:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:53:16,455 luigi.server[50699] INFO: Worker Worker(salt=121829167, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=75318) timed out (no contact for >=60.0s)
+2015-10-19 20:53:16,455 luigi.server[50699] INFO: Task u'IngestData()' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:53:16,455 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:53:16,849 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.70ms
+2015-10-19 20:53:17,061 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.49ms
+2015-10-19 20:53:17,063 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.39ms
+2015-10-19 20:53:20,207 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.57ms
+2015-10-19 20:53:20,208 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-19 20:53:20,210 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-19 20:53:20,211 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-19 20:53:20,213 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-19 20:53:20,214 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-19 20:53:20,216 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-19 20:53:20,217 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.34ms
+2015-10-19 20:53:20,219 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-19 20:53:20,220 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-19 20:53:20,221 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-19 20:53:20,223 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.32ms
+2015-10-19 20:53:20,224 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.39ms
+2015-10-19 20:53:21,201 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.86ms
+2015-10-19 20:53:22,234 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.50ms
+2015-10-19 20:53:23,238 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.67ms
+2015-10-19 20:53:24,368 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.66ms
+2015-10-19 20:53:25,376 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.68ms
+2015-10-19 20:53:26,382 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:53:27,387 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.70ms
+2015-10-19 20:53:28,394 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:53:29,399 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:53:30,483 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.57ms
+2015-10-19 20:53:31,542 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.39ms
+2015-10-19 20:53:32,718 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.42ms
+2015-10-19 20:53:33,726 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.69ms
+2015-10-19 20:53:34,733 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.78ms
+2015-10-19 20:53:35,737 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.99ms
+2015-10-19 20:53:36,741 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.56ms
+2015-10-19 20:53:37,478 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.48ms
+2015-10-19 20:53:37,480 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.41ms
+2015-10-19 20:53:37,509 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.55ms
+2015-10-19 20:53:37,522 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.45ms
+2015-10-19 20:53:51,421 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.57ms
+2015-10-19 20:53:51,423 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.43ms
+2015-10-19 20:53:51,425 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-19 20:53:51,426 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-19 20:53:51,427 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-19 20:53:51,429 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-19 20:53:51,430 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-19 20:53:51,432 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-19 20:53:51,433 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-19 20:53:51,435 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-19 20:53:51,436 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-19 20:53:51,438 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.34ms
+2015-10-19 20:53:51,439 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.42ms
+2015-10-19 20:53:51,482 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 1.09ms
+2015-10-19 20:53:51,485 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.65ms
+2015-10-19 20:54:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:54:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:55:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:55:16,454 luigi.server[50699] INFO: Worker Worker(salt=248208455, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=75629) timed out (no contact for >=60.0s)
+2015-10-19 20:55:16,454 luigi.server[50699] INFO: Worker Worker(salt=332573801, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=75525) timed out (no contact for >=60.0s)
+2015-10-19 20:55:16,454 luigi.server[50699] INFO: Worker Worker(salt=806431497, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=75422) timed out (no contact for >=60.0s)
+2015-10-19 20:55:16,454 luigi.server[50699] INFO: Task u'IngestData(category=PUNTING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,455 luigi.server[50699] INFO: Task u'IngestData(category=RECEIVING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,455 luigi.server[50699] INFO: Task u'IngestData(category=KICK_RETURNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,455 luigi.server[50699] INFO: Task u'IngestData(category=TACKLES)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,455 luigi.server[50699] INFO: Task u'IngestData(category=KICKING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,455 luigi.server[50699] INFO: Task u'IngestData(category=SACKS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,456 luigi.server[50699] INFO: Task u'IngestData(category=PASSING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,456 luigi.server[50699] INFO: Task u'IngestData(category=RUSHING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,456 luigi.server[50699] INFO: Task u'IngestData(category=TOUCHDOWNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,456 luigi.server[50699] INFO: Task u'IngestData(category=SCORING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,456 luigi.server[50699] INFO: Task u'ExportToES()' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-19 20:55:16,456 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:56:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:56:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:57:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:57:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:58:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:58:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 20:59:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 20:59:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:00:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:00:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:01:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:01:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:02:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:02:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:03:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:03:16,455 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:04:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:04:16,457 luigi.server[50699] INFO: Removing task u'IngestData()' (no connected stakeholders)
+2015-10-19 21:04:16,458 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:05:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:05:16,454 luigi.server[50699] INFO: Done pruning task graph
