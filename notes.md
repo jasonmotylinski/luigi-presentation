@@ -1,5 +1,6 @@
 1. Pre-presentation
  1. re-initialize elasticsearch
+ 1. DELETE http://localhost:9200/nfl
  1. clear out venv
 1. Demo old
  1. Explain nfl lib https://github.com/jasonmotylinski/nfl which scrapes these web pages http://www.nfl.com/stats/categorystats?tabSeq=0&statisticCategory=PASSING&season=2015&seasonType=REG
@@ -22,3 +23,8 @@
  1. luigi --module luigipipeline.1_steps IngestData
  1. luigi --module luigipipeline.2_steps IngestData
  1. luigi --module luigipipeline.3_steps IngestData
+1. STOP - Go back to slides
+ 1. Discuss various outputs
+1. Elasticsearch Demo 
+ 1. http://localhost:9200/_plugin/kibana3/src/index.html#/dashboard/file/guided.json
+ 1. luigi --module luigipipeline.4_steps IngestData

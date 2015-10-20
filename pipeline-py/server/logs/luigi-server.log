@@ -1649,3 +1649,932 @@
 2015-10-19 21:04:16,458 luigi.server[50699] INFO: Done pruning task graph
 2015-10-19 21:05:16,453 luigi.server[50699] INFO: Starting pruning of task graph
 2015-10-19 21:05:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:06:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:06:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=PUNTING)' (no connected stakeholders)
+2015-10-19 21:06:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=RECEIVING)' (no connected stakeholders)
+2015-10-19 21:06:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=KICK_RETURNS)' (no connected stakeholders)
+2015-10-19 21:06:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=TACKLES)' (no connected stakeholders)
+2015-10-19 21:06:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=KICKING)' (no connected stakeholders)
+2015-10-19 21:06:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=SACKS)' (no connected stakeholders)
+2015-10-19 21:06:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=PASSING)' (no connected stakeholders)
+2015-10-19 21:06:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=RUSHING)' (no connected stakeholders)
+2015-10-19 21:06:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=TOUCHDOWNS)' (no connected stakeholders)
+2015-10-19 21:06:16,456 luigi.server[50699] INFO: Removing task u'IngestData(category=SCORING)' (no connected stakeholders)
+2015-10-19 21:06:16,456 luigi.server[50699] INFO: Removing task u'ExportToES()' (no connected stakeholders)
+2015-10-19 21:06:16,456 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:07:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:07:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:08:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:08:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:09:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:09:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:10:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:10:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:11:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:11:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:12:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:12:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:13:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:13:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:14:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:14:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:15:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:15:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:16:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:16:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:17:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:17:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-19 21:18:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-19 21:18:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:40:34,961 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:40:34,964 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:41:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:41:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:42:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:42:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:43:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:43:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:44:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:44:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:45:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:45:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:46:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:46:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:47:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:47:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:48:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:48:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:49:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:49:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:50:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:50:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:51:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:51:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:51:30,053 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 2.47ms
+2015-10-20 06:51:30,056 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.50ms
+2015-10-20 06:51:30,059 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.42ms
+2015-10-20 06:51:30,061 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.40ms
+2015-10-20 06:51:30,062 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.39ms
+2015-10-20 06:51:30,064 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:51:30,065 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:51:30,067 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.52ms
+2015-10-20 06:51:30,069 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.42ms
+2015-10-20 06:51:30,071 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.40ms
+2015-10-20 06:51:30,072 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.39ms
+2015-10-20 06:51:30,074 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.40ms
+2015-10-20 06:51:30,076 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.55ms
+2015-10-20 06:51:30,119 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 1.68ms
+2015-10-20 06:51:30,121 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.37ms
+2015-10-20 06:52:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:52:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:52:20,427 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.56ms
+2015-10-20 06:52:20,429 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:52:20,430 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.63ms
+2015-10-20 06:52:20,432 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:52:20,433 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:52:20,435 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:52:20,436 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.40ms
+2015-10-20 06:52:20,438 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 06:52:20,439 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:52:20,441 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:52:20,442 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:52:20,444 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.31ms
+2015-10-20 06:52:20,445 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.41ms
+2015-10-20 06:52:20,477 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.65ms
+2015-10-20 06:52:20,479 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.49ms
+2015-10-20 06:53:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:53:16,454 luigi.server[50699] INFO: Worker Worker(salt=710426689, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=76993) timed out (no contact for >=60.0s)
+2015-10-20 06:53:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:53:56,981 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.58ms
+2015-10-20 06:53:56,983 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:53:56,985 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:53:56,986 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.68ms
+2015-10-20 06:53:56,988 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:53:56,990 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:53:56,991 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:53:56,993 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:53:56,994 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:53:56,995 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:53:56,997 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:53:56,998 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.32ms
+2015-10-20 06:53:57,000 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.39ms
+2015-10-20 06:53:57,031 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.62ms
+2015-10-20 06:53:57,032 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.34ms
+2015-10-20 06:54:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:54:16,454 luigi.server[50699] INFO: Worker Worker(salt=179722894, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=77098) timed out (no contact for >=60.0s)
+2015-10-20 06:54:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:54:47,777 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.56ms
+2015-10-20 06:54:47,778 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:54:47,780 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:54:47,781 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 06:54:47,783 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.61ms
+2015-10-20 06:54:47,785 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:54:47,786 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:54:47,788 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:54:47,789 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:54:47,791 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:54:47,792 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:54:47,794 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.33ms
+2015-10-20 06:54:47,795 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.40ms
+2015-10-20 06:54:47,826 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.63ms
+2015-10-20 06:54:47,828 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.33ms
+2015-10-20 06:55:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:55:16,454 luigi.server[50699] INFO: Worker Worker(salt=104270409, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=77203) timed out (no contact for >=60.0s)
+2015-10-20 06:55:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:56:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:56:16,454 luigi.server[50699] INFO: Worker Worker(salt=476050325, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=77308) timed out (no contact for >=60.0s)
+2015-10-20 06:56:16,454 luigi.server[50699] INFO: Task u'IngestData(category=PUNTING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,454 luigi.server[50699] INFO: Task u'IngestData(category=RECEIVING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,454 luigi.server[50699] INFO: Task u'IngestData(category=KICK_RETURNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,455 luigi.server[50699] INFO: Task u'IngestData(category=TACKLES)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,455 luigi.server[50699] INFO: Task u'IngestData(category=KICKING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,455 luigi.server[50699] INFO: Task u'IngestData(category=SACKS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,455 luigi.server[50699] INFO: Task u'IngestData(category=PASSING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,455 luigi.server[50699] INFO: Task u'IngestData(category=RUSHING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,456 luigi.server[50699] INFO: Task u'IngestData(category=TOUCHDOWNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,456 luigi.server[50699] INFO: Task u'IngestData(category=SCORING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,456 luigi.server[50699] INFO: Task u'ExportToES()' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:56:16,456 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:57:09,890 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.53ms
+2015-10-20 06:57:09,892 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:57:09,893 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:57:09,895 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:57:09,896 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:57:09,898 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.60ms
+2015-10-20 06:57:09,900 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:57:09,901 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 06:57:09,903 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:57:09,904 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:57:09,906 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:57:09,907 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.31ms
+2015-10-20 06:57:09,908 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.39ms
+2015-10-20 06:57:09,913 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.64ms
+2015-10-20 06:57:09,915 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.37ms
+2015-10-20 06:57:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:57:16,455 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:58:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:58:16,453 luigi.server[50699] INFO: Worker Worker(salt=987763738, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=77420) timed out (no contact for >=60.0s)
+2015-10-20 06:58:16,454 luigi.server[50699] INFO: Task u'IngestData(category=PUNTING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,454 luigi.server[50699] INFO: Task u'IngestData(category=RECEIVING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,454 luigi.server[50699] INFO: Task u'IngestData(category=KICK_RETURNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,454 luigi.server[50699] INFO: Task u'IngestData(category=TACKLES)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,454 luigi.server[50699] INFO: Task u'IngestData(category=KICKING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,455 luigi.server[50699] INFO: Task u'IngestData(category=SACKS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,455 luigi.server[50699] INFO: Task u'IngestData(category=PASSING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,455 luigi.server[50699] INFO: Task u'IngestData(category=RUSHING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,455 luigi.server[50699] INFO: Task u'IngestData(category=TOUCHDOWNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,455 luigi.server[50699] INFO: Task u'IngestData(category=SCORING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,456 luigi.server[50699] INFO: Task u'ExportToES()' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 06:58:16,456 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 06:58:33,269 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.57ms
+2015-10-20 06:58:33,271 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:58:33,272 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 06:58:33,274 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:58:33,275 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:58:33,277 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:58:33,278 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.61ms
+2015-10-20 06:58:33,280 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:58:33,281 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 06:58:33,283 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 06:58:33,284 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 06:58:33,286 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.32ms
+2015-10-20 06:58:33,287 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.39ms
+2015-10-20 06:58:33,297 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.61ms
+2015-10-20 06:58:33,299 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.35ms
+2015-10-20 06:59:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 06:59:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:00:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:00:16,454 luigi.server[50699] INFO: Worker Worker(salt=231935390, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=77535) timed out (no contact for >=60.0s)
+2015-10-20 07:00:16,454 luigi.server[50699] INFO: Task u'IngestData(category=PUNTING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,454 luigi.server[50699] INFO: Task u'IngestData(category=RECEIVING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,454 luigi.server[50699] INFO: Task u'IngestData(category=KICK_RETURNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,454 luigi.server[50699] INFO: Task u'IngestData(category=TACKLES)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,455 luigi.server[50699] INFO: Task u'IngestData(category=KICKING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,455 luigi.server[50699] INFO: Task u'IngestData(category=SACKS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,455 luigi.server[50699] INFO: Task u'IngestData(category=PASSING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,455 luigi.server[50699] INFO: Task u'IngestData(category=RUSHING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,455 luigi.server[50699] INFO: Task u'IngestData(category=TOUCHDOWNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,456 luigi.server[50699] INFO: Task u'IngestData(category=SCORING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,456 luigi.server[50699] INFO: Task u'ExportToES()' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:00:16,456 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:01:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:01:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:02:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:02:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:03:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:03:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:04:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:04:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:05:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:05:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:05:59,815 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.54ms
+2015-10-20 07:05:59,817 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 07:05:59,819 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 07:05:59,820 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:05:59,822 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 07:05:59,823 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:05:59,825 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:05:59,826 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.60ms
+2015-10-20 07:05:59,828 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 07:05:59,829 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:05:59,831 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:05:59,832 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.32ms
+2015-10-20 07:05:59,834 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.40ms
+2015-10-20 07:05:59,898 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 1.57ms
+2015-10-20 07:05:59,900 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.34ms
+2015-10-20 07:06:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:06:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:06:51,950 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.61ms
+2015-10-20 07:06:51,952 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.43ms
+2015-10-20 07:06:51,954 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.43ms
+2015-10-20 07:06:51,956 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.44ms
+2015-10-20 07:06:51,957 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.39ms
+2015-10-20 07:06:51,959 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:06:51,961 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:06:51,962 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:06:51,964 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.74ms
+2015-10-20 07:06:51,965 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.40ms
+2015-10-20 07:06:51,967 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 07:06:51,968 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.35ms
+2015-10-20 07:06:51,970 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.42ms
+2015-10-20 07:06:51,975 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.64ms
+2015-10-20 07:06:51,977 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.35ms
+2015-10-20 07:07:03,463 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.62ms
+2015-10-20 07:07:03,465 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.45ms
+2015-10-20 07:07:03,467 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.42ms
+2015-10-20 07:07:03,469 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.41ms
+2015-10-20 07:07:03,471 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 07:07:03,472 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:07:03,474 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:07:03,475 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:07:03,477 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:07:03,478 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.39ms
+2015-10-20 07:07:03,480 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.39ms
+2015-10-20 07:07:03,481 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.34ms
+2015-10-20 07:07:03,483 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.41ms
+2015-10-20 07:07:03,518 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 1.55ms
+2015-10-20 07:07:03,520 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.34ms
+2015-10-20 07:07:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:07:16,454 luigi.server[50699] INFO: Worker Worker(salt=326818177, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=78184) timed out (no contact for >=60.0s)
+2015-10-20 07:07:16,455 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:07:19,681 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.59ms
+2015-10-20 07:07:19,683 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.44ms
+2015-10-20 07:07:19,685 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.42ms
+2015-10-20 07:07:19,687 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.46ms
+2015-10-20 07:07:19,689 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.43ms
+2015-10-20 07:07:19,691 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.40ms
+2015-10-20 07:07:19,692 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 07:07:19,694 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.51ms
+2015-10-20 07:07:19,696 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 07:07:19,698 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.51ms
+2015-10-20 07:07:19,699 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.65ms
+2015-10-20 07:07:19,701 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.33ms
+2015-10-20 07:07:19,703 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.42ms
+2015-10-20 07:07:19,740 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 1.45ms
+2015-10-20 07:07:19,741 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.36ms
+2015-10-20 07:08:16,179 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.56ms
+2015-10-20 07:08:16,181 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.38ms
+2015-10-20 07:08:16,183 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:08:16,184 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:08:16,185 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:08:16,187 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:08:16,188 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:08:16,190 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.37ms
+2015-10-20 07:08:16,191 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:08:16,193 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.36ms
+2015-10-20 07:08:16,194 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.35ms
+2015-10-20 07:08:16,196 tornado.access[50699] INFO: 200 POST /api/add_worker (::1) 0.32ms
+2015-10-20 07:08:16,197 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.39ms
+2015-10-20 07:08:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:08:16,454 luigi.server[50699] INFO: Worker Worker(salt=919658731, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=78396) timed out (no contact for >=60.0s)
+2015-10-20 07:08:16,455 luigi.server[50699] INFO: Worker Worker(salt=599527445, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=78291) timed out (no contact for >=60.0s)
+2015-10-20 07:08:16,455 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:08:17,180 tornado.access[50699] INFO: 200 POST /api/ping (::1) 0.40ms
+2015-10-20 07:08:17,358 tornado.access[50699] INFO: 200 POST /api/add_task (::1) 0.51ms
+2015-10-20 07:08:17,360 tornado.access[50699] INFO: 200 POST /api/get_work (::1) 0.36ms
+2015-10-20 07:09:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:09:16,454 luigi.server[50699] INFO: Worker Worker(salt=583863967, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=78501) timed out (no contact for >=60.0s)
+2015-10-20 07:09:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:10:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:10:16,454 luigi.server[50699] INFO: Worker Worker(salt=716832734, workers=1, host=developers-MacBook-Pro-2.local, username=developer, pid=78611) timed out (no contact for >=60.0s)
+2015-10-20 07:10:16,454 luigi.server[50699] INFO: Task u'IngestData(category=PUNTING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,454 luigi.server[50699] INFO: Task u'IngestData(category=RECEIVING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,454 luigi.server[50699] INFO: Task u'IngestData(category=KICK_RETURNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,454 luigi.server[50699] INFO: Task u'IngestData(category=TACKLES)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,455 luigi.server[50699] INFO: Task u'IngestData(category=KICKING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,455 luigi.server[50699] INFO: Task u'IngestData(category=SACKS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,455 luigi.server[50699] INFO: Task u'IngestData(category=PASSING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,455 luigi.server[50699] INFO: Task u'IngestData(category=RUSHING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,455 luigi.server[50699] INFO: Task u'IngestData(category=TOUCHDOWNS)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,455 luigi.server[50699] INFO: Task u'IngestData(category=SCORING)' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,456 luigi.server[50699] INFO: Task u'ExportToES()' has stakeholders set([]) but none remain connected -> will remove task in 600.0 seconds
+2015-10-20 07:10:16,456 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:11:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:11:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:12:16,632 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:12:16,632 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:13:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:13:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:14:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:14:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:15:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:15:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:16:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:16:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:17:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:17:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:18:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:18:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:19:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:19:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:20:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:20:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:21:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:21:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=PUNTING)' (no connected stakeholders)
+2015-10-20 07:21:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=RECEIVING)' (no connected stakeholders)
+2015-10-20 07:21:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=KICK_RETURNS)' (no connected stakeholders)
+2015-10-20 07:21:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=TACKLES)' (no connected stakeholders)
+2015-10-20 07:21:16,454 luigi.server[50699] INFO: Removing task u'IngestData(category=KICKING)' (no connected stakeholders)
+2015-10-20 07:21:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=SACKS)' (no connected stakeholders)
+2015-10-20 07:21:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=PASSING)' (no connected stakeholders)
+2015-10-20 07:21:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=RUSHING)' (no connected stakeholders)
+2015-10-20 07:21:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=TOUCHDOWNS)' (no connected stakeholders)
+2015-10-20 07:21:16,455 luigi.server[50699] INFO: Removing task u'IngestData(category=SCORING)' (no connected stakeholders)
+2015-10-20 07:21:16,456 luigi.server[50699] INFO: Removing task u'ExportToES()' (no connected stakeholders)
+2015-10-20 07:21:16,456 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:22:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:22:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:23:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:23:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:24:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:24:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:25:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:25:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:26:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:26:16,457 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:27:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:27:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:28:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:28:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:29:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:29:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:30:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:30:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:31:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:31:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:32:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:32:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:33:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:33:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:34:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:34:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:35:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:35:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:36:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:36:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:37:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:37:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:38:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:38:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:39:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:39:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:40:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:40:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:41:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:41:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:42:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:42:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:43:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:43:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:44:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:44:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:45:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:45:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:46:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:46:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:47:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:47:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:48:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:48:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:49:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:49:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:50:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:50:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:51:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:51:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:52:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:52:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:53:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:53:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:54:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:54:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:55:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:55:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:56:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:56:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:57:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:57:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:58:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:58:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 07:59:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 07:59:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:00:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:00:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:01:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:01:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:02:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:02:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:03:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:03:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:04:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:04:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:05:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:05:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:06:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:06:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:07:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:07:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:08:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:08:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:09:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:09:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:10:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:10:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:11:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:11:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:12:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:12:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:13:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:13:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:14:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:14:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:15:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:15:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:16:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:16:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:17:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:17:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:18:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:18:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:19:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:19:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:20:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:20:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:21:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:21:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:22:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:22:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:23:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:23:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:24:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:24:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:25:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:25:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:26:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:26:16,457 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:27:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:27:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:28:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:28:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:29:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:29:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:30:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:30:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:31:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:31:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:32:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:32:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:33:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:33:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:34:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:34:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:35:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:35:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:36:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:36:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:37:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:37:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:38:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:38:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:39:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:39:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:40:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:40:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:41:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:41:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:42:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:42:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:43:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:43:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:44:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:44:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:45:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:45:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:46:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:46:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:47:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:47:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:48:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:48:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:49:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:49:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:50:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:50:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:51:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:51:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:52:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:52:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:53:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:53:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:54:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:54:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:55:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:55:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:56:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:56:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:57:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:57:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:58:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:58:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 08:59:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 08:59:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:00:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:00:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:01:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:01:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:02:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:02:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:03:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:03:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:04:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:04:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:05:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:05:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:06:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:06:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:07:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:07:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:08:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:08:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:09:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:09:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:10:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:10:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:11:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:11:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:12:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:12:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:13:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:13:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:14:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:14:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:15:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:15:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:16:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:16:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:17:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:17:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:18:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:18:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:19:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:19:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:20:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:20:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:21:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:21:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:22:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:22:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:23:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:23:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:24:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:24:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:25:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:25:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:26:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:26:16,456 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:27:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:27:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:28:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:28:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:29:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:29:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:30:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:30:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:31:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:31:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:32:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:32:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:33:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:33:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:34:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:34:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:35:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:35:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:36:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:36:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:37:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:37:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:38:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:38:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:39:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:39:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:40:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:40:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:41:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:41:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:42:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:42:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:43:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:43:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:44:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:44:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:45:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:45:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:46:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:46:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:47:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:47:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:48:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:48:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:49:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:49:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:50:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:50:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:51:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:51:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:52:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:52:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:53:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:53:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:54:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:54:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:55:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:55:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:56:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:56:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:57:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:57:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:58:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:58:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 09:59:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 09:59:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:00:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:00:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:01:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:01:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:02:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:02:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:03:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:03:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:04:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:04:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:05:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:05:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:06:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:06:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:07:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:07:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:08:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:08:16,455 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:09:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:09:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:10:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:10:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:11:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:11:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:12:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:12:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:13:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:13:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:14:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:14:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:15:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:15:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:16:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:16:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:17:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:17:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:18:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:18:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:19:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:19:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:20:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:20:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:21:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:21:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:22:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:22:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:23:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:23:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:24:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:24:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:25:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:25:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:26:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:26:16,457 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:27:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:27:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:28:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:28:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:29:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:29:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:30:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:30:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:31:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:31:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:32:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:32:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:33:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:33:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:34:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:34:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:35:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:35:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:36:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:36:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:37:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:37:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:38:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:38:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:39:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:39:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:40:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:40:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:41:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:41:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:42:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:42:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:43:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:43:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:44:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:44:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:45:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:45:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:46:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:46:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:47:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:47:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:48:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:48:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:49:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:49:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:50:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:50:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:51:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:51:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:52:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:52:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:53:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:53:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:54:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:54:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:55:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:55:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:56:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:56:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:57:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:57:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:58:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:58:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 10:59:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 10:59:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:00:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:00:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:01:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:01:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:02:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:02:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:03:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:03:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:04:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:04:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:05:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:05:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:06:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:06:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:07:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:07:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:08:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:08:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:09:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:09:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:10:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:10:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:11:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:11:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:12:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:12:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:13:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:13:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:14:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:14:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:15:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:15:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:16:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:16:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:17:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:17:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:18:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:18:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:19:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:19:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:20:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:20:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:21:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:21:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:22:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:22:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:23:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:23:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:24:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:24:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:25:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:25:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:26:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:26:16,457 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:27:34,736 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:27:34,737 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:30:00,643 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:30:00,643 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:30:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:30:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:31:35,875 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:31:35,876 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:32:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:32:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:33:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:33:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:34:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:34:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:35:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:35:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:36:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:36:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:37:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:37:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:38:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:38:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:39:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:39:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:40:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:40:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:41:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:41:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:42:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:42:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:43:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:43:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:44:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:44:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:45:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:45:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:46:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:46:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:47:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:47:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:48:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:48:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:49:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:49:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:50:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:50:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:51:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:51:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:56:13,192 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:56:13,192 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 11:56:16,455 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 11:56:16,455 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:18:59,796 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:18:59,797 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:19:16,454 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:19:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:20:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:20:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:21:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:21:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:22:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:22:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:23:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:23:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:24:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:24:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:26:38,794 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:26:38,794 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:27:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:27:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:28:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:28:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:29:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:29:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:30:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:30:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:31:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:31:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:32:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:32:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:33:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:33:16,454 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:34:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:34:16,453 luigi.server[50699] INFO: Done pruning task graph
+2015-10-20 12:35:16,453 luigi.server[50699] INFO: Starting pruning of task graph
+2015-10-20 12:35:16,454 luigi.server[50699] INFO: Done pruning task graph
