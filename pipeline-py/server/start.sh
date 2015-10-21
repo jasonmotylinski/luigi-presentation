@@ -1,1 +1,1 @@
-luigid --background --pidfile luigi.pid --logdir logs --state-path state
+luigid --pidfile luigi.pid --logdir logs --state-path state
