@@ -10,38 +10,17 @@ from nfl import scraper
 class IngestData(luigi.Task):
 
     category = luigi.Parameter()
+    year = luigi.Parameter()
 
     def output(self):
-        target = luigi.LocalTarget("output/{0}.json".format(self.category))
+        target = luigi.LocalTarget("output/{0}/{1}.json".format(self.year, self.category))
         target.category = self.category
+        target.year = self.year
         return target
 
     def run(self):
         with self.output().open('w') as f:
-            f.write(json.dumps(scraper.scrape_category(self.category), indent=2))
-
-
-class GenerateReport(luigi.Task):
-
-    def requires(self):
-        for c in ['KICK_RETURNS', 'KICKING', 'PASSING', 'PUNTING', 'RECEIVING', 'RUSHING', 'SACKS', 'SCORING', 'TACKLES', 'TOUCHDOWNS']:
-            yield IngestData(c)
-
-    def output(self):
-        return luigi.LocalTarget("output/report.json")
-
-    def run(self):
-        report = {}
-
-        for inputFile in self.input():
-            with inputFile.open('r') as f:
-                data = json.loads(f.read())
-                report[inputFile.category] = data[:-10]
-
-        with self.output().open('w') as f:
-            for k in report.keys():
-                for el in report[k]:
-                    f.write(el.values()[0] + "," + el.values()[1] + "," + el.values()[2] + "," + el.values()[3] + '\n')
+            f.write(json.dumps(scraper.scrape_year_category(self.year, self.category), indent=2))
 
 
 class ExportToES(luigi.Task):
@@ -49,7 +28,7 @@ class ExportToES(luigi.Task):
     def __init__(self):
         self.host = "localhost"
         self.port = "9200"
-        self.index = "demo4"
+        self.index = "demo5"
         super(ExportToES, self).__init__()
 
     def _init_connection(self):
@@ -59,8 +38,9 @@ class ExportToES(luigi.Task):
         )
 
     def requires(self):
-        for c in ['KICK_RETURNS', 'KICKING', 'PASSING', 'PUNTING', 'RECEIVING', 'RUSHING', 'SACKS', 'SCORING', 'TACKLES', 'TOUCHDOWNS']:
-            yield IngestData(c)
+        for year in range(2000, 2015):
+            for c in ['KICK_RETURNS', 'KICKING', 'PASSING', 'PUNTING', 'RECEIVING', 'RUSHING', 'SACKS', 'SCORING', 'TACKLES', 'TOUCHDOWNS']:
+                yield IngestData(c, year)
 
     def output(self):
         return esindex.ElasticsearchTarget(host=self.host, port=self.port, index=self.index, doc_type="report", update_id="_id")

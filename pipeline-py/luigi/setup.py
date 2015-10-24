@@ -1,5 +1,8 @@
+import os
 
 from setuptools import setup
+
+os.system('pip install -e git://github.com/jasonmotylinski/nfl.git#egg=scraper')
 
 setup(
     name="luigipipeline",
@@ -10,6 +13,7 @@ setup(
     keywords="example documentation tutorial",
     packages=['luigipipeline'],
     install_requires=[
-        "BeautifulSoup"
+        "BeautifulSoup",
+        "elasticsearch"
     ]
 )
