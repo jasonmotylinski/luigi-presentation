@@ -9,4 +9,7 @@ setup(
     license="BSD",
     keywords="example documentation tutorial",
     packages=['luigipipeline'],
+    install_requires=[
+        "BeautifulSoup"
+    ]
 )

@@ -1,4 +1,3 @@
-elasticsearch==1.7.0
 beautifulsoup
 -e git://github.com/jasonmotylinski/nfl.git#egg=scraper
 
